@@ -3,7 +3,7 @@ package com.dropbox.core;
 import com.dropbox.core.v2.common.PathRootError;
 
 /**
- * Gets thrown when an invalid path rood is supplied.
+ * Gets thrown when an invalid path root is supplied.
  */
 public class PathRootErrorException extends DbxException {
     private static final long serialVersionUID = 0;
